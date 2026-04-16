@@ -1,6 +1,5 @@
 <h1>Hi there 👋</h1>
-
-<!--
+<p> Computer science student (UG) | Rookie Dev | Passionate abt Coding</p>
 **Kishore-version01/Kishore-version01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
