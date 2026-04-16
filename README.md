@@ -1,63 +1,89 @@
-<!-- PROFILE README -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
 
-<h1 align="center">Hi 👋, I'm Kishore</h1>
-<h3 align="center">🎓 First-Year University Student | 💻 Passionate Coder</h3>
+<h1 align="center">Hi, I'm Tham 👋</h1>
 
 <p align="center">
-  <em>Driven by curiosity, fueled by code 🚀</em>
+  <b>Computer Science Engineer | Builder | Problem Solver</b><br>
+  Turning ideas into systems that actually work.
 </p>
 
 <hr>
 
-<h2>🧠 About Me</h2>
+<h2>🚀 About Me</h2>
 <ul>
-  <li>🌱 Currently learning <strong>programming fundamentals & real-world development</strong></li>
-  <li>💡 Interested in <strong>software development, problem solving, and innovation</strong></li>
-  <li>🔍 Curious about how things work behind the scenes</li>
-  <li>🎯 Goal: Become a <strong>skilled developer</strong> and build impactful solutions</li>
+  <li>🎓 Computer Science student</li>
+  <li>⚙️ Interested in systems, simulations, and real-world problem solving</li>
+  <li>📊 Focused on building impactful and scalable solutions</li>
+  <li>🧠 Strong interest in logic, strategy, and history</li>
 </ul>
 
 <hr>
 
-<h2>⚙️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
+
 <p>
-  <strong>Languages:</strong> C, C++, Python, Java (learning)<br>
-  <strong>Web:</strong> HTML, CSS, JavaScript<br>
-  <strong>Tools:</strong> Git, GitHub, VS Code
+<b>Languages:</b><br>
+C / C++ / Python / Java / JavaScript
 </p>
+
+<p>
+<b>Core Areas:</b><br>
+Data Structures & Algorithms • System Design • Simulation Systems
+</p>
+
+<p>
+<b>Tools & Technologies:</b><br>
+Git • GitHub • Linux • VS Code
+</p>
+
+<hr>
+
+<h2>📈 Current Focus</h2>
+<ul>
+  <li>Building simulation-based systems</li>
+  <li>Improving problem-solving and DSA</li>
+  <li>Working on real-world projects with practical impact</li>
+</ul>
+
+<hr>
+
+<h2>📌 Featured Projects</h2>
+
+<ul>
+  <li><b>🚆 Railway Simulation System</b><br>
+  A system to simulate train movement and optimize delays using decision logic.</li>
+
+  <li><b>⚙️ Optimization Projects</b><br>
+  Projects focused on solving real-world inefficiencies using algorithms.</li>
+</ul>
 
 <hr>
 
 <h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 <hr>
 
-<h2>🚀 Projects</h2>
-<ul>
-  <li>🔹 Building beginner-friendly projects to strengthen my skills</li>
-  <li>🔹 More exciting projects coming soon!</li>
-</ul>
+<h2>🌐 Connect With Me</h2>
 
-<hr>
-
-<h2>📫 Connect With Me</h2>
 <p>
-  📧 Email: your-email@example.com<br>
-  💼 LinkedIn: https://linkedin.com/in/your-profile
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
+<a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 <hr>
 
-<h2>✨ Quote</h2>
-<p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
+<h3 align="center">"Build things that matter."</h3>
 
-<hr>
-
-<p align="center">⭐️ Thanks for visiting my profile! ⭐️</p>
+</body>
+</html>
