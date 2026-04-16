@@ -67,9 +67,9 @@ Git • GitHub • Linux • VS Code
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishore-version01&show_icons=true&theme=tokyonight" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-version01&theme=tokyonight" />
 </p>
 
 <hr>
@@ -77,8 +77,7 @@ Git • GitHub • Linux • VS Code
 <h2>🌐 Connect With Me</h2>
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="www.linkedin.com/in/thamizhan">LinkedIn</a>
 </p>
 
 <hr>
