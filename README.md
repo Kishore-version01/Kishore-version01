@@ -67,9 +67,9 @@ Git • GitHub • Linux • VS Code
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishore-version01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SirThamizhan&show_icons=true&theme=tokyonight" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-version01&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirThamizhan&theme=tokyonight" />
 </p>
 
 <hr>
