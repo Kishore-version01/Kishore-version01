@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1 align="center">Hi, I'm Tham 👋</h1>
+<h1 align="center">Hi, I'm Kishore </h1>
 
 <p align="center">
   <b>Computer Science Engineer | Builder | Problem Solver</b><br>
@@ -65,6 +65,7 @@ Git • GitHub • Linux • VS Code
 <hr>
 
 <h2>📊 GitHub Stats</h2>
+<p>Work account</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SirThamizhan&show_icons=true&theme=tokyonight" />
